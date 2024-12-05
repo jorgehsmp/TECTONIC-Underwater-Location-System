@@ -1,0 +1,311 @@
+I%¦?¦¦x¦"/-¦^.p¦Q¦%-¦¦¦¦[CU] COAST BOARD
+[CU] Attempting to connect......[SETUP] Connected to WiFi network: JorgeWiFi
+[CU] Getting RTC...
+[CU] LoRa init succeeded!
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:16:18 [RNG] B1,RNG,1.83,45.779357910156246,15.936900138854981,81
+                                                                              [RNG] B2,RNG,6.33,45.779346466064456,15.936886787414550,81
+                                                                                                                                        [RNG] B3,RNG,3.00,45.779373168945314,15.936898231506346,81
+                                                                                                                                                                                                  [RNG] T,3005
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:16:34 [RNG] B1,RNG,2.34,45.779357910156246,15.936898231506346,81
+                                                                              [RNG] B2,RNG,6.94,45.779346466064456,15.936886787414550,81
+                                                                                                                                        [RNG] B3,RNG,2.39,45.779373168945314,15.936898231506346,81
+                                                                                                                                                                                                  [RNG] T,3504
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:16:48 [RNG] B1,RNG,3.05,45.779357910156246,15.936897277832031,81
+                                                                              [RNG] B2,RNG,7.59,45.779346466064456,15.936886787414550,81
+                                                                                                                                        [RNG] B3,RNG,2.58,45.779373168945314,15.936900138854981,81
+                                                                                                                                                                                                  [RNG] T,3187
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:17:07 [RNG] B1,RNG,3.23,45.779357910156246,15.936895370483399,81
+                                                                              [RNG] B2,LOG,Timeout,45.779346466064456,15.936886787414550,81
+                                                                                                                                           [RNG] B3,RNG,3.66,45.779365539550784,15.936902046203613,81
+                                                                                                                                                                                                     [RNG] T,6766
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:17:30 [FAIL] RNG Measurement Timeout: 3
+24/08/2023 12:17:35 [MQTT] SLAVE BUOY #2 : MQTT connection established
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:17:51 [RNG] B1,RNG,2.48,45.779357910156246,15.936889648437500,81
+                                                                              [RNG] B3,LOG,Timeout,45.779354095458986,15.936878204345703,81
+                                                                                                                                           [RNG] B2,LOG,Timeout,45.779338836669918,15.936884880065917,81
+                                                                                                                                                                                                        [RNG] T,6162
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:18:15 [FAIL] RNG Measurement Timeout: 3
+24/08/2023 12:18:15
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:18:34 [RNG] B1,RNG,3.42,45.779357910156246,15.936886787414550,81
+                                                                              [RNG] B2,RNG,6.33,45.779338836669918,15.936882019042968,81
+                                                                                                                                        [RNG] B3,RNG,4.50,45.779338836669918,15.936900138854981,81
+                                                                                                                                                                                                  [RNG] T,3771
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:19:00 [FAIL] RNG Measurement Timeout: 3
+24/08/2023 12:19:01 [MQTT] SLAVE BUOY #2 : MQTT connection established
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:19:27 [RNG] B1,RNG,4.69,45.779354095458986,15.936882019042968,81
+                                                                              [RNG] B2,LOG,Timeout,45.779338836669918,15.936815261840820,81
+                                                                                                                                           [RNG] B3,LOG,Timeout,45.779373168945314,15.936841964721679,90
+                                                                                                                                                                                                        [RNG] T,12040
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:19:42 [RNG] B1,LOG,Timeout,45.779354095458986,15.936880111694335,81
+                                                                                 [RNG] B2,LOG,Timeout,45.779335021972658,15.936812400817870,81
+                                                                                                                                              [RNG] B3,RNG,4.45,45.779365539550784,15.936818122863769,81
+                                                                                                                                                                                                        [RNG] T,11648
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:19:57 [RNG] B1,RNG,3.19,45.779354095458986,15.936877250671386,81
+                                                                              [RNG] B2,LOG,Timeout,45.779327392578128,15.936804771423340,81
+                                                                                                                                           [RNG] B3,LOG,Timeout,45.779354095458986,15.936806678771972,81
+                                                                                                                                                                                                        [RNG] T,12142
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:20:08 [RNG] B1,RNG,3.61,45.779350280761716,15.936875343322753,81
+                                                                              [RNG] B2,LOG,Timeout,45.779319763183590,15.936800003051758,81
+                                                                                                                                           [RNG] B3,RNG,3.38,45.779346466064456,15.936802864074706,81
+                                                                                                                                                                                                     [RNG] T,7774
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:20:30 [FAIL] RNG Measurement Timeout: 3
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:20:53 [RNG] B1,RNG,2.91,45.779350280761716,15.936866760253907,81
+                                                                              [RNG] B2,RNG,5.91,45.779289245605472,15.936779975891113,81
+                                                                                                                                        [RNG] B3,LOG,Timeout,45.779342651367187,15.936802864074706,81
+                                                                                                                                                                                                     [RNG] T,7709
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:21:04 [RNG] B1,RNG,4.92,45.779346466064456,15.936862945556640,81
+                                                                              [RNG] B2,RNG,4.08,45.779281616210933,15.936772346496582,81
+                                                                                                                                        [RNG] B3,RNG,6.61,45.779342651367187,15.936801910400390,81
+                                                                                                                                                                                                  [RNG] T,4252
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:21:23 [RNG] B1,RNG,5.53,45.779346466064456,15.936860084533690,81
+                                                                              [RNG] B2,LOG,Timeout,45.779289245605472,15.936750411987303,81
+                                                                                                                                           [RNG] B3,RNG,3.75,45.779342651367187,15.936801910400390,81
+                                                                                                                                                                                                     [RNG] T,7854
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:21:39 [RNG] B1,RNG,5.53,45.779346466064456,15.936858177185058,81
+                                                                              [RNG] B2,RNG,5.67,45.779289245605472,15.936744689941406,81
+                                                                                                                                        [RNG] B3,LOG,Timeout,45.779342651367187,15.936800003051758,81
+                                                                                                                                                                                                     [RNG] T,8455
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:21:57 [RNG] B1,LOG,Timeout,45.779346466064456,15.936855316162108,81
+                                                                                 [RNG] B2,RNG,5.48,45.779281616210933,15.936739921569824,81
+                                                                                                                                           [RNG] B3,LOG,Timeout,45.779342651367187,15.936798095703124,81
+                                                                                                                                                                                                        [RNG] T,11977
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:22:08 [RNG] B1,RNG,3.19,45.779346466064456,15.936852455139161,81
+                                                                              [RNG] B2,RNG,6.19,45.779273986816404,15.936735153198242,81
+                                                                                                                                        [RNG] B3,LOG,Timeout,45.779342651367187,15.936797142028808,81
+                                                                                                                                                                                                     [RNG] T,7508
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:22:23 [RNG] B1,RNG,2.72,45.779342651367187,15.936847686767579,81
+                                                                              [RNG] B2,LOG,Timeout,45.779262542724605,15.936724662780761,81
+                                                                                                                                           [RNG] B3,RNG,3.14,45.779342651367187,15.936795234680176,81
+                                                                                                                                                                                                     [RNG] T,8076
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:22:38 [RNG] B1,RNG,3.47,45.779342651367187,15.936844825744628,81
+                                                                              [RNG] B2,RNG,10.0,45.779251098632816,15.936717987060546,81
+                                                                                                                                        [RNG] B3,LOG,Timeout,45.779342651367187,15.936795234680176,81
+                                                                                                                                                                                                     [RNG] T,7629
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:22:53 [RNG] B1,LOG,Timeout,45.779342651367187,15.936842918395996,81
+                                                                                 [RNG] B2,RNG,11.3,45.779243469238277,15.936715126037597,81
+                                                                                                                                           [RNG] B3,RNG,2.91,45.779338836669918,15.936792373657226,81
+                                                                                                                                                                                                     [RNG] T,8230
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:23:08 [RNG] B1,RNG,4.50,45.779338836669918,15.936841964721679,81
+                                                                              [RNG] B2,LOG,Timeout,45.779239654541017,15.936713218688964,81
+                                                                                                                                           [RNG] B3,RNG,1.92,45.779338836669918,15.936790466308594,81
+                                                                                                                                                                                                     [RNG] T,7748
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:23:19 [RNG] B1,RNG,4.22,45.779338836669918,15.936838150024414,81
+                                                                              [RNG] B2,RNG,10.1,45.779228210449218,15.936708450317382,81
+                                                                                                                                        [RNG] B3,RNG,1.88,45.779338836669918,15.936790466308594,81
+                                                                                                                                                                                                  [RNG] T,3366
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:23:34 [RNG] B1,RNG,3.28,45.779338836669918,15.936835289001464,81
+                                                                              [RNG] B2,RNG,7.59,45.779220581054689,15.936699867248536,81
+                                                                                                                                        [RNG] B3,RNG,4.17,45.779338836669918,15.936787605285644,81
+                                                                                                                                                                                                  [RNG] T,4022
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:23:53 [RNG] B1,RNG,3.09,45.779335021972658,15.936832427978515,81
+                                                                              [RNG] B2,LOG,Timeout,45.779209136962890,15.936692237854003,81
+                                                                                                                                           [RNG] B3,RNG,6.00,45.779338836669918,15.936786651611328,81
+                                                                                                                                                                                                     [RNG] T,7693
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:24:03 [RNG] B1,RNG,4.27,45.779335021972658,15.936829566955566,81
+                                                                              [RNG] B2,RNG,6.47,45.779201507568361,15.936684608459472,81
+                                                                                                                                        [RNG] B3,RNG,7.69,45.779338836669918,15.936784744262695,81
+                                                                                                                                                                                                  [RNG] T,3232
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:24:19 [RNG] B1,RNG,5.44,45.779331207275388,15.936826705932616,81
+                                                                              [RNG] B2,RNG,6.28,45.779193878173831,15.936676979064941,81
+                                                                                                                                        [RNG] B3,RNG,8.95,45.779335021972658,15.936782836914062,81
+                                                                                                                                                                                                  [RNG] T,3824
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:24:45 [FAIL] RNG Measurement Timeout: 3
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:25:04 [RNG] B1,RNG,4.88,45.779331207275388,15.936820030212402,81
+                                                                              [RNG] B2,RNG,9.14,45.779190063476562,15.936675071716308,81
+                                                                                                                                        [RNG] B3,RNG,6.28,45.779273986816404,15.936692237854003,81
+                                                                                                                                                                                                  [RNG] T,4389
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:25:30 [FAIL] RNG Measurement Timeout: 3
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:25:49 [RNG] B1,RNG,8.48,45.779327392578128,15.936812400817870,81
+                                                                              [RNG] B2,RNG,9.47,45.779186248779293,15.936673164367675,81
+                                                                                                                                        [RNG] B3,RNG,4.97,45.779258728027345,15.936687469482421,81
+                                                                                                                                                                                                  [RNG] T,4122
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:26:15 [FAIL] RNG Measurement Timeout: 2
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:26:45 [FAIL] RNG Measurement Timeout: 2
+24/08/2023 12:26:45
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:27:04 [RNG] B1,RNG,10.0,45.779323577880859,15.936800003051758,81
+                                                                              [RNG] B2,RNG,13.8,45.779182434082033,15.936668395996093,81
+                                                                                                                                        [RNG] B3,RNG,3.80,45.779235839843748,15.936637878417969,81
+                                                                                                                                                                                                  [RNG] T,3760
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:27:30 [FAIL] RNG Measurement Timeout: 3
+24/08/2023 12:27:30
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:27:57 [RNG] B1,RNG,11.0,45.779308319091800,15.936782836914062,81
+                                                                              [RNG] B2,LOG,Timeout,45.779159545898435,15.936636924743652,81
+                                                                                                                                           [RNG] B3,LOG,Timeout,45.779201507568361,15.936633110046387,81
+                                                                                                                                                                                                        [RNG] T,11833
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:28:04 [RNG] B1,RNG,11.4,45.779304504394531,15.936779975891113,81
+                                                                              [RNG] B2,RNG,18.5,45.779151916503906,15.936628341674805,81
+                                                                                                                                        [RNG] B3,RNG,5.11,45.779201507568361,15.936632156372070,81
+                                                                                                                                                                                                  [RNG] T,3423
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:28:19 [RNG] B1,RNG,10.2,45.779304504394531,15.936778068542480,81
+                                                                              [RNG] B2,RNG,17.9,45.779144287109376,15.936622619628906,81
+                                                                                                                                        [RNG] B3,RNG,3.61,45.779201507568361,15.936630249023437,81
+                                                                                                                                                                                                  [RNG] T,4029
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:28:38 [RNG] B1,RNG,6.80,45.779300689697262,15.936777114868164,81
+                                                                              [RNG] B2,RNG,15.8,45.779140472412107,15.936622619628906,81
+                                                                                                                                        [RNG] B3,LOG,Timeout,45.779201507568361,15.936636924743652,81
+                                                                                                                                                                                                     [RNG] T,7654
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:28:49 [RNG] B1,RNG,4.69,45.779300689697262,15.936775207519531,81
+                                                                              [RNG] B2,RNG,16.8,45.779140472412107,15.936622619628906,81
+                                                                                                                                        [RNG] B3,RNG,3.80,45.779205322265621,15.936617851257324,81
+                                                                                                                                                                                                  [RNG] T,4296
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:29:15 [FAIL] RNG Measurement Timeout: 3
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:29:33 [RNG] B1,RNG,2.39,45.779220581054689,15.936715126037597,81
+                                                                              [RNG] B2,RNG,9.98,45.779136657714847,15.936622619628906,81
+                                                                                                                                        [RNG] B3,RNG,8.67,45.779201507568361,15.936614990234375,81
+                                                                                                                                                                                                  [RNG] T,2690
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:30:00 [FAIL] RNG Measurement Timeout: 3
+24/08/2023 12:30:06 [MQTT] SLAVE BUOY #2 : MQTT connection established
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:30:22 [RNG] B1,LOG,Timeout,45.779212951660159,15.936726570129393,86
+                                                                                 [RNG] B2,RNG,3.61,45.779136657714847,15.936602592468260,86
+                                                                                                                                           [RNG] B3,RNG,14.4,45.779216766357420,15.936585426330567,86
+                                                                                                                                                                                                     [RNG] T,7131
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:30:34 [RNG] B1,RNG,4.36,45.779205322265621,15.936735153198242,86
+                                                                              [RNG] B2,RNG,5.77,45.779136657714847,15.936602592468260,86
+                                                                                                                                        [RNG] B3,RNG,12.0,45.779216766357420,15.936585426330567,86
+                                                                                                                                                                                                  [RNG] T,3677
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:30:48 [RNG] B1,RNG,2.58,45.779209136962890,15.936712265014647,86
+                                                                              [RNG] B2,RNG,5.48,45.779136657714847,15.936602592468260,86
+                                                                                                                                        [RNG] B3,RNG,12.0,45.779216766357420,15.936585426330567,86
+                                                                                                                                                                                                  [RNG] T,3286
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:31:07 [RNG] B1,RNG,2.86,45.779212951660159,15.936684608459472,86
+                                                                              [RNG] B2,RNG,6.09,45.779136657714847,15.936605453491210,86
+                                                                                                                                        [RNG] B3,LOG,Timeout,45.779216766357420,15.936585426330567,86
+                                                                                                                                                                                                     [RNG] T,6763
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:31:23 [RNG] B1,RNG,3.52,45.779216766357420,15.936675071716308,86
+                                                                              [RNG] B2,RNG,9.94,45.779136657714847,15.936607360839842,86
+                                                                                                                                        [RNG] B3,LOG,Timeout,45.779216766357420,15.936582565307617,86
+                                                                                                                                                                                                     [RNG] T,7451
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:31:34 [RNG] B1,RNG,2.67,45.779216766357420,15.936687469482421,86
+                                                                              [RNG] B2,RNG,9.52,45.779136657714847,15.936608314514160,86
+                                                                                                                                        [RNG] B3,RNG,7.41,45.779216766357420,15.936582565307617,86
+                                                                                                                                                                                                  [RNG] T,3982
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:31:49 [RNG] B1,RNG,6.38,45.779216766357420,15.936695098876954,86
+                                                                              [RNG] B2,RNG,13.3,45.779136657714847,15.936610221862792,86
+                                                                                                                                        [RNG] B3,RNG,4.17,45.779216766357420,15.936582565307617,86
+                                                                                                                                                                                                  [RNG] T,3505
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:32:13 [RNG] B1,RNG,523.,45.779216766357420,15.936693191528319,86
+                                                                              [RNG] B2,LOG,Timeout,45.779136657714847,15.936610221862792,86
+                                                                                                                                           [RNG] B3,LOG,Timeout,45.779209136962890,15.936576843261718,86
+                                                                                                                                                                                                        [RNG] T,12526
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:32:19 [RNG] B1,RNG,6.66,45.779224395751949,15.936695098876954,86
+                                                                              [RNG] B2,RNG,12.0,45.779148101806637,15.936612129211424,86
+                                                                                                                                        [RNG] B3,RNG,3.05,45.779201507568361,15.936557769775390,86
+                                                                                                                                                                                                  [RNG] T,4154
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:32:39 [RNG] B1,RNG,5.58,45.779228210449218,15.936693191528319,86
+                                                                              [RNG] B2,RNG,9.14,45.779148101806637,15.936612129211424,86
+                                                                                                                                        [RNG] B3,LOG,Timeout,45.779197692871091,15.936534881591796,86
+                                                                                                                                                                                                     [RNG] T,8426
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:32:48 [RNG] B1,RNG,3.52,45.779228210449218,15.936692237854003,86
+                                                                              [RNG] B2,RNG,9.00,45.779148101806637,15.936612129211424,86
+                                                                                                                                        [RNG] B3,RNG,6.84,45.779193878173831,15.936519622802734,86
+                                                                                                                                                                                                  [RNG] T,3009
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:33:08 [RNG] B1,RNG,5.91,45.779228210449218,15.936692237854003,86
+                                                                              [RNG] B2,LOG,Timeout,45.779148101806637,15.936612129211424,86
+                                                                                                                                           [RNG] B3,RNG,8.86,45.779197692871091,15.936517715454101,86
+                                                                                                                                                                                                     [RNG] T,7635
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:33:22 [RNG] B1,RNG,7.50,45.779228210449218,15.936692237854003,86
+                                                                              [RNG] B2,RNG,4.12,45.779148101806637,15.936612129211424,86
+                                                                                                                                        [RNG] B3,LOG,Timeout,45.779197692871091,15.936519622802734,86
+                                                                                                                                                                                                     [RNG] T,7155
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:33:45 [FAIL] RNG Measurement Timeout: 3
+24/08/2023 12:33:46 [MQTT] SLAVE BUOY #2 : MQTT connection established
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:34:15 [FAIL] RNG Measurement Timeout: 3
+24/08/2023 12:34:27 [MQTT] SLAVE BUOY #2 : MQTT connection established
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:34:37 [RNG] B1,RNG,7.78,45.779243469238277,15.936682701110839,86
+                                                                              [RNG] B2,RNG,6.42,45.779148101806637,15.936610221862792,86
+                                                                                                                                        [RNG] B3,LOG,Timeout,45.779243469238277,15.936532974243164,86
+                                                                                                                                                                                                     [RNG] T,7003
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:34:49 [RNG] B1,RNG,8.67,45.779243469238277,15.936677932739257,86
+                                                                              [RNG] B2,RNG,6.42,45.779148101806637,15.936608314514160,86
+                                                                                                                                        [RNG] B3,RNG,14.3,45.779262542724605,15.936528205871582,86
+                                                                                                                                                                                                  [RNG] T,3645
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:35:03 [RNG] B1,RNG,9.14,45.779251098632816,15.936677932739257,86
+                                                                              [RNG] B2,RNG,5.91,45.779148101806637,15.936608314514160,86
+                                                                                                                                        [RNG] B3,RNG,15.1,45.779273986816404,15.936530113220214,86
+                                                                                                                                                                                                  [RNG] T,3260
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:35:30 [FAIL] RNG Measurement Timeout: 3
+24/08/2023 12:35:30
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
+24/08/2023 12:35:49 [RNG] B1,RNG,9.47,45.779277801513673,15.936693191528319,86
+                                                                              [RNG] B2,RNG,4.88,45.779148101806637,15.936608314514160,86
+                                                                                                                                        [RNG] B3,RNG,18.4,45.779308319091800,15.936572074890136,86
+                                                                                                                                                                                                  [RNG] T,3606
+[CU] Sending automatically '$G,007,RNG' to Master Bouy...
